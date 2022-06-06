@@ -1,0 +1,12 @@
+#message-input{
+    width: 1500px;
+    height: 20px;
+    margin: 5px;
+}
+
+#send-button{
+    padding: 3px;
+    color: black;
+    border-radius: 5px;
+    background-color: white;
+}
